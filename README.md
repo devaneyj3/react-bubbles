@@ -36,7 +36,9 @@ You set up authetication by getting the token from the backend and if a users to
 
 - [ ] Describe how web servers work.
 
-* [ ] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+A server is where code is stored and is served to the internet on request
+
+- [ ] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
 
 Create is a post request. read is a get request. update is an update request. delete is a delete request.
 
