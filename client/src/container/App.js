@@ -5,7 +5,7 @@ import Login from "../components/LogIn/Login";
 import PrivateRoute from "../components/PrivateRoute/PrivateRoute";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./app.scss";
-import BubblePage from "../components/BubblePage";
+import BubblePage from "../components/BubblePage/BubblePage";
 
 function App() {
 	return (
