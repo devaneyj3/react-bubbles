@@ -1,0 +1,10 @@
+@import '../../mixin.scss';
+
+.LogIn {
+    @include content-container;
+
+    form {
+        border-radius: 2rem;
+        padding: 2%;
+    }
+}
